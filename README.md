@@ -11,7 +11,7 @@ Experiência com desenvolvimento 2D utilizando **Love2D**, aplicando lógica de 
 ---
 
 ## Habilidades
-- **Lua** — Love2D (jogos 2D, protótipos, game jams)
+- **Lua** — Love2D (jogos 2D e protótipos)
 - **Python** — lógica, scripts e projetos gerais
 - **Git / GitHub** — versionamento e colaboração
 
