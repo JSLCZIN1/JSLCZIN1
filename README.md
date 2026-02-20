@@ -1,36 +1,31 @@
-# JSLCZIN1
+JSLCZIN1
+Software Developer | Lua • JavaScript • Python • C
 
-Game Developer | Lua & Python
+Sobre
+Desenvolvedor focado em lógica de programação e versatilidade técnica. Experiência em desenvolvimento de sistemas funcionais, desde lógica estruturada de jogos até scripts de automação. Especialista em resolver problemas complexos com código limpo e organizado via controle de versão.
 
----
+Habilidades Técnicas
+Linguagens: Lua, JavaScript, Python e C.
+Controle de Versão: Domínio de Git e GitHub para gestão de código e colaboração.
 
-## Sobre
-Desenvolvedor de jogos com foco em prototipação e participação em game jams.  
-Experiência com desenvolvimento 2D utilizando **Love2D**, aplicando lógica de jogo, estados, UI simples e mecânicas clássicas.
+Especialidades:
+Lua: Desenvolvimento de engines, lógica de sistemas e scripts de performance.
+JS & Python: Criação de scripts de automação, manipulação de dados e lógica web.
+C: Programação estruturada, algoritmos e fundamentos de baixo nível.
 
----
+Projetos em Destaque
+Tetris Love2D
+Tecnologias: Lua | Love2D
+Protótipo funcional do clássico Tetris, demonstrando domínio em:
+Organização de código e sistema de estados.
+Manipulação de lógica de matrizes para peças e colisões.
+Implementação de interface (UI) e mecânicas de gameplay.
+Repositório: github.com/JSLCZIN1/Tetris-Love2d
 
-## Habilidades
-- **Lua** — Love2D (jogos 2D e protótipos)
-- **Python** — lógica, scripts e projetos gerais
-- **Git / GitHub** — versionamento e colaboração
+Áreas de Interesse para Freelance
+Automação de Processos: Scripts em Python/JS para otimização de tarefas.
+Manutenção de Sistemas: Correção de bugs e melhorias em códigos existentes.
+Prototipagem: Transformação de ideias em MVPs (Produtos Mínimos Viáveis).
 
----
-
-## Projetos
-**Tetris Love2D**  
-Protótipo jogável de Tetris desenvolvido em Love2D.  
-Organização de código, sistema de estados e lógica clássica do jogo.  
-🔗 https://github.com/JSLCZIN1/Tetris-Love2d
-
----
-
-## Interesses
-- Design de mecânicas
-- Prototipação rápida
-- Desenvolvimento independente
-
----
-
-## Objetivo
-Aprimorar habilidades em desenvolvimento de jogos e evoluir projetos até versões publicáveis.
+Objetivo
+Atuar em projetos de desenvolvimento de software onde eu possa aplicar minha base lógica e versatilidade em múltiplas linguagens para entregar soluções eficientes.
